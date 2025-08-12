@@ -1,0 +1,11 @@
+TELL
+p
+p => q
+q => r
+r & s => t
+t => u
+s => v
+v => s
+
+ASK
+u
