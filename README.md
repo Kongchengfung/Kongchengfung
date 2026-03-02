@@ -1,7 +1,11 @@
 ## Hi, I'm Kong Cheng Fung 👋
 
-I’m a final-year **Computer Science (Cybersecurity)** student with hands-on experience in **ethical hacking**, **network security**, and **full-stack development**.  
-Available to start an **internship immediately** for **12+ weeks**. 
+Fresh graduate in Computer Science with practical experience in both cybersecurity and full
+stack development. Skilled in penetration testing, packet analysis, and web security, 
+alongside hands-on projects using React.js, Node.js, MySQL, and MongoDB. Completed 
+internship gaining exposure to IT support, system configuration, and real-world technical 
+problem-solving. Eager to apply a strong technical foundation in a full-time role within 
+cybersecurity, network security, or software engineering. 
 
 🚀 About Me
 - 💻 Skilled in **Cybersecurity** and **Web/Software Development**
